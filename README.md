@@ -1,6 +1,6 @@
 # IDS2024F - Introduction to Data Science (Fall 2024)
-This project contains all my activities related to DATA 1301: Intro Data Science.
-Name: <first name> <last name>
+*This project contains all my activities related to DATA 1301: Intro Data Science.
+*Name: <first name> <last name>
 School ID: <your ID>
 Email: <your email>
 Department: Department of <your department>
