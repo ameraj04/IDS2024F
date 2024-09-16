@@ -1,4 +1,2 @@
-# IDS2024F
-
-
-This file contains my all activities of 1301 Data Science.
+# IDS2024F - Introduction to Data Science (Fall 2024)
+This project contains all my activities related to DATA 1301: Intro Data Science.
