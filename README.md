@@ -1,11 +1,12 @@
 # IDS2024F - Introduction to Data Science (Fall 2024)
-*This project contains all my activities related to DATA 1301: Intro Data Science.
-*Name: <first name> <last name>
-School ID: <your ID>
-Email: <your email>
-Department: Department of <your department>
-University: The University of <your university>
-Level: <undergraduate or graduate> - <Freshman (1st year) / Sophomore (2nd year) / Junior (3rd year) / Senior (4th year)>
-Position Title: Student
-Course Webpage: <the course's website, if any>
-Photo (ATTN: should display your photo, not mine!):
+This project contains all my activities related to DATA 1301: Intro Data Science.
+
+**Name:** Ariba Meraj
+**School ID:** 1001805583
+**Email:** axm5584@mavs.uta.edu
+**Department:** Department of Data Science / Biology Program
+**University:** [The University of Texas at Arlington](https://www.uta.edu)
+**Level:** Undergraduate
+**Position Title:** Student
+**Course Webpage:** https://www.cdslab.org/IDS2024F
+**Photo:** https://images.app.goo.gl/MF276QJoo5zcW5DT6
