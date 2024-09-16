@@ -2,7 +2,6 @@
 This project contains all my activities related to DATA 1301: Intro Data Science.
 
 **Name:** Ariba Meraj 
-
 **School ID:** 1001805583
 **Email:** axm5584@mavs.uta.edu
 **Department:** Department of Data Science / Biology Program
