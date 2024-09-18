@@ -1,1 +1,1 @@
-This is where my quizzes are stored for Data Science 1301.
+This is where my Quiz 1 is stored for Data Science 1301.
