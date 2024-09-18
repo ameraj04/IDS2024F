@@ -28,8 +28,8 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 For questions and troubleshooting, please contact:
 
-Ariba Meraj
-axm5584@mavs.uta.edu
+Ariba Meraj  
+axm5584@mavs.uta.edu  
 www.cdslab.org
 
   >  I have not failed. I’ve just found 10,000 ways that won’t work.  
