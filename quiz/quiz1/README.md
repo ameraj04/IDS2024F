@@ -12,7 +12,7 @@ a. Each person working on the project has clone of the central repository on the
 a. Local VCS b. Centralized VCS c. Distributed VCS  
 Git is a distributed version control software and GitHub is the central remote repository.   
 git status lists all new and modified files to be committed.    
-git push -all - The second command stages the modified and deleted files without the newly-created files.  
+git push -all - Stages the modified and deleted files without the newly-created files. It pushes all commits from the local repository to the remote repository, to place them permanently there so that they can be shared to others. 
 git pull - It basically pulls the latest updated version from the remote repository to the local repository.  
 Markdown is a way to style text on the computer. Basically, it can format the text (bold, italicized etc). It includes text and some non-alphabatical characters such as #,*    
 We make the text bold in MarkDown by adding **text**.    
