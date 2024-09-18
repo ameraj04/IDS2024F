@@ -10,5 +10,5 @@
    b.  git status - lists all new and modified files to be committed. .  
    c.  git add --all - adds any of the modified files or newly created files.  
    d.  git commit'm' latest build - automatically stages and commits the files together.  
-   e.  git push --all - pushes all commits from the local repository to the remote repository, to place them permanently there so that they can be shared to others.  
+   e.  git push --all - pushes all commits from the local repository to the remote repository, to place them permanently there so that they can be shared to others. Stages the modified and deleted files without the newly-created files.  
  6. Part a,b and c are done.   
