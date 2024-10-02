@@ -11,7 +11,7 @@ A kind of computer that had to be rewired to perform a new task.
 Calculators.  
 Imperative knowledge is about how to accomplish something, or basically, is a recipe on how to do something, known as algorithm in scientific terminology. Declarative knowledge is statement/fact.  
 a. Declarative B. Declarative C. Imperative D. Imperative E. Imperative.  
-Machine Language.  
+Arithematic/Mathematics.  
 Electronic Numerical Integrator and And Computer (ENIAC).    
 Python.  
 Fortran.  
@@ -24,12 +24,12 @@ A. Assembly. B. Fortran: Third , C: Third , C++: Third , MATLAB: Fourth, Python:
 C: 1971 , C++: 1983, MATLAB: 1973, and Python: 1991.  
 B.  
 C.  
-For Python it is unclear, but ABC seems to be the ancestor. Python is the ancestor of MATLAB.  
+For Python it is unclear, but ABC seems to be the ancestor. Fortran is the ancestor of MATLAB.  
 Logarithm is basically a function that is used to express exponential quantities. For example, if we have a grain of rice in one block, and we have total 60 blocks, and in each block a grain adds up to the existing one... our total calculation will be super long. Therefore, it is efficient to use logarithm function as it is fast and can calculate the quantity in exponents.  
+S = 1683 (Summation property).  
+The longer lasting memory is Magnetic tapes about 20 years. HDD about 5 years.  
 
-The longer lasting memory is 
-
-
+S=10^5050 (Summation and property of exponents).  
 
 
 
