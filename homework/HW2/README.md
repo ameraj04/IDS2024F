@@ -1,11 +1,11 @@
-Answer to this question has been attached. 
-Electronic Numerical Integrator And Computer. 
-In computers, everything is ultimately represented by integers because computers are based on digital electronics, which operate on binary systems. The fundamental reason for this lies in the hardware design and the nature of how computers process and store information. a. Binary Representation b. Memory c. Logical and Boolean Operations.
-The fastest part of a computer's memory is called the CPU (Central Processing Unit). 
-The slowest storage device in computers is the mechanical hard disk drive (HDD). 
-The smallest unit of information in computer science is the bit.
-A. The programming language closest to machine code (i.e., binary code) is assembly language. B. Yes
-The oldest high-level programming language that is still in active daily use is Fortran. B. Fortran was created in 1957. As of 2024, this makes Fortran approximately 67 years old, which is around 7 decades old. 
+Answer to this question has been attached.   
+Electronic Numerical Integrator And Computer.   
+In computers, everything is ultimately represented by integers because computers are based on digital electronics, which operate on binary systems. The fundamental reason for this lies in the hardware design and the nature of how computers process and store information. a. Binary Representation b. Memory c. Logical and Boolean Operations.  
+The fastest part of a computer's memory is called the CPU (Central Processing Unit).   
+The slowest storage device in computers is the mechanical hard disk drive (HDD).   
+The smallest unit of information in computer science is the bit.  
+A. The programming language closest to machine code (i.e., binary code) is assembly language. B. Yes  
+The oldest high-level programming language that is still in active daily use is Fortran. B. Fortran was created in 1957. As of 2024, this makes Fortran approximately 67 years old, which is around 7 decades old.   
 A. Assembly B. Fortan, C and C++ are Third Generation Languages. MATLAB, Python and R are Fourth Generation Languages. 
 C language : Created in the 1970s (third generation) , C++ and MATLAB Created in the 1980. (third generation) , Python: Created in the 1990s (fourth generation).
 An ancestor programming language of C is B. 
