@@ -1,4 +1,4 @@
-A. Answer to this question has been attached. B. Fortran, Fortran 90, Lisp, Algol 58, Java, Python, C, C++, Javascript, sh, basic. C. Fortran: 1954, Fortran 90: 1991, Lisp: 1958, Algol 58: 1958, Java: 1991, Python: 1991, C: 1971, C++: 1983, Javascript: 1995, sh: 1971, basic: 1964  
+A. Answer to this question has been attached B. Fortran, Fortran 90, Lisp, Algol 58, Java, Python, C, C++, Javascript, sh, basic. C. Fortran: 1954, Fortran 90: 1991, Lisp: 1958, Algol 58: 1958, Java: 1991, Python: 1991, C: 1971, C++: 1983, Javascript: 1995, sh: 1971, basic: 1964  
 Electronic Numerical Integrator And Computer.     
 In computers, everything is ultimately represented by integers because computers are based on digital electronics, which operate on binary systems. The fundamental reason for this lies in the hardware design and the nature of how computers process and store information. a. Binary Representation b. Memory c. Logical and Boolean Operations.  
 The fastest part of a computer's memory is called the CPU (Central Processing Unit).   
