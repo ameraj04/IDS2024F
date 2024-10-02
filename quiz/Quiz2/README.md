@@ -18,6 +18,18 @@ Fortran.
 Memory array, control unit, arithemetic block, CPU registers, data instructions.  
 Calculators.  
 Fortran -> COBOL -> B -> C++ -> Python -> Java.  
-A. Assembly B. 
+A. Assembly B. Yes.  
+A. Fortran B. It came out in 1954 (almost 7 decades old).  
+A. Assembly. B. Fortran: Third , C: Third , C++: Third , MATLAB: Fourth, Python: Fourth, R: Fourth.  
+C: 1971 , C++: 1983, MATLAB: 1973, and Python: 1991.  
+B.  
+C.  
+For Python it is unclear, but ABC seems to be the ancestor. Python is the ancestor of MATLAB.  
+Logarithm is basically a function that is used to express exponential quantities. For example, if we have a grain of rice in one block, and we have total 60 blocks, and in each block a grain adds up to the existing one... our total calculation will be super long. Therefore, it is efficient to use logarithm function as it is fast and can calculate the quantity in exponents.  
+
+The longer lasting memory is 
+
+
+
 
 
