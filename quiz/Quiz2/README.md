@@ -8,7 +8,7 @@ Less than 1 nano second.
 It was built in 1940.  
 It was built in 1945.  
 A kind of computer that had to be rewired to perform a new task.  
-Calculators.  
+Microwave.  
 Imperative knowledge is about how to accomplish something, or basically, is a recipe on how to do something, known as algorithm in scientific terminology. Declarative knowledge is statement/fact.  
 a. Declarative B. Declarative C. Imperative D. Imperative E. Imperative.  
 Arithematic/Mathematics.  
