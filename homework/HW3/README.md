@@ -32,8 +32,8 @@ Let B: "The window of the jewelry store is broken."
 Let C: "The burglar alarm is sounding."
 Let D: "The gentleman is carrying stolen jewelry."
 Reasoning Process: Premise 1: If the window of the jewelry store is broken, then it is likely that a burglary has occurred. This can be written as: B⇒A (If the window is broken, then the gentleman is likely a burglar.) Premise 2: If the burglar alarm is sounding, then it indicates that someone is attempting to commit a burglary.This can be written as: C⇒A(If the burglar alarm is sounding, then the gentleman is likely a burglar.) Premise 3: If the gentleman is a burglar, then he is likely carrying stolen jewelry. This can be written as: A⇒D(If the gentleman is a burglar, then he is carrying stolen jewelry.)
-Putting It All Together: From the observations, the policeman can logically deduce the following: Observation: The window is broken (B) and the burglar alarm is sounding (C). Conclusion 1: Based on B⇒A and C⇒A, the policeman concludes: (B∨C)⇒A(If the window is broken or the alarm is sounding, then the gentleman is likely a burglar.)
-Conclusion 2: Given that he believes AA (the gentleman is a burglar) is true, he concludes that: A⇒D(If the gentleman is a burglar, then he is carrying stolen jewelry.)
+Putting It All Together: From the observations, the policeman can logically deduce the following: Observation: The window is broken (B) and the burglar alarm is sounding (C). Conclusion 1: Based on B⇒A and C⇒A, the policeman concludes: If the window is broken or the alarm is sounding, then the gentleman is likely a burglar.
+Conclusion 2: Given that he believes A (the gentleman is a burglar) is true, he concludes that: A⇒D(If the gentleman is a burglar, then he is carrying stolen jewelry.)
 Final Conclusion: The policeman concludes that: The gentleman is a burglar (A). Therefore, he is carrying stolen jewelry (D). This reasoning shows how the policeman arrives at the conclusion based on the given observations and logical deductions without specifically linking physical causation. 
 
 a. The tiniest unit of information is Bit. A bit of information can either represent 0 or 1.   
