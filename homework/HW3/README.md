@@ -1,4 +1,4 @@
-The Three Pillars of Science are: Experiment, Theory and Computation. 
+The Three Pillars of Science are: Experiment, Theory and Computation/Simulation. 
 
 Three different applications of Computational and Data Sciences are: a. Bioinformatics/Genomics/Genetics: Computational and Data Sciences can help with the collection and analyzation of data about DNA sequences, etc to understand the molecular structures. b. Healthcare & Medical Imaging: Machine algorithms and models can help with the medical imagings such as MRI, CT scans etc to study the trend of disease and optimize the treatment.  c. Astronomy & Astrophysics: Computational models and techniques assist with data collection of telescopes and space stuff such as formation of galaxies, etc.   
 
