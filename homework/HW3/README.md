@@ -20,7 +20,7 @@ No, A⇒B does not necessitate B⇒A. This relationship is known as the fallacy 
 
 The Venn diagram above represents the logical sum or disjunction A+B. The shaded regions include the area where A is true, the area where B is true, and the area where both A and B are true. This indicates that A+B is true if at least one of the propositions A or B is true, or if both are true.  
 
-The Venn diagram above represents the logical product or conjunction. The shaded region corresponds to the intersection where both A and B are true. This indicates that A.B is true only when both propositions A and B are true simultaneously.      
+The Venn diagram above represents the logical product or conjunction. The shaded region corresponds to the intersection where both A and B are true. This indicates that this is true only when both propositions A and B are true simultaneously.      
 
 To represent the logical implication A⇒B using a Venn Diagram, we need to show that whenever A is true, B is also true. In a Venn Diagram, this means that the area representing A should be entirely within the area representing B.  
 
