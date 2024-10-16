@@ -10,7 +10,7 @@ The three stages of scientific inference in the prediction pyramid are: Predicti
 
 A statement or assertion that is either true or false, but not both, is called a logical proposition. It is a declarative phrase with a clear truth value (true or false) that states a fact or a claim about the world. Propositions are the fundamental units of logic that underpin more intricate expressions and reasoning. A proposition must be clear and unambiguous, meaning it should be possible to determine whether it is true or false without interpretation. Examples: "2,4,6,8 are even numbers." (True)      ,     "Fish can fly." (False).    
 
-In deductive reasoning, a logical proposition cannot be simultaneously both true and false; this is a fundamental principle known as the law of non-contradiction. In deductive reasoning, if a proposition is true, then it cannot be false, and if it is false, it cannot be true.
+In deductive reasoning, a logical proposition cannot be simultaneously both true and false; this is a fundamental principle known as the law of non-contradiction. In deductive reasoning, if a proposition is true, then it cannot be false, and if it is false, it cannot be true. Also, the truth value of a proposition must be consistent, which is essential for forming valid logical conclusions.
 Example: Consider the logical proposition R: "The car is parked in the garage."
 Case 1: R is true. If the car is indeed parked in the garage, then the proposition R is true.
 Case 2: R is false. If the car is not parked in the garage (for example, it is on the street or in another location), then the proposition R is false.
