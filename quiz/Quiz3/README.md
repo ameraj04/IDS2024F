@@ -14,9 +14,9 @@ The difference between model validation vs caliberation is that
 
 The Boolean algebra is named after George Boole.
 
-Done.  
+Done. The Venn diagram above represents the logical product or conjunction. The shaded region corresponds to the intersection where both A and B are true. This indicates that this is true only when both propositions A and B are true simultaneously.  
 
-Done.  
+Done. The Venn diagram above represents the logical sum or disjunction A+B. The shaded regions include the area where A is true, the area where B is true, and the area where both A and B are true. This indicates that A+B is true if at least one of the propositions A or B is true, or if both are true.  
 
 If two Boolean propositions are equal then it means that the proposition on the left-hand side has the same truth value as the proposition on the right-hand side. It denotes two equal truth value. 
 
@@ -24,7 +24,7 @@ hhh
 
 hhh
  
-Done.  
+Done. To represent the logical implication A⇒B using a Venn Diagram, we need to show that whenever A is true, B is also true. In a Venn Diagram, this means that the area representing A should be entirely within the area representing B.  
 
 The tiniest unit of information is a Bit.  
 
