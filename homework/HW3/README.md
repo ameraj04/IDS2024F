@@ -35,13 +35,13 @@ Putting It All Together: From the observations, the policeman can logically dedu
 Conclusion 2: Given that he believes AA (the gentleman is a burglar) is true, he concludes that: A⇒D(If the gentleman is a burglar, then he is carrying stolen jewelry.)
 Final Conclusion: The policeman concludes that: The gentleman is a burglar (A). Therefore, he is carrying stolen jewelry (D). This reasoning shows how the policeman arrives at the conclusion based on the given observations and logical deductions without specifically linking physical causation. 
 
-a. The tiniest unit of information is Bit. A bit of information can either represent 0 or 1. 
+a. The tiniest unit of information is Bit. A bit of information can either represent 0 or 1.   
 b. It represents the most basic form of information, a yes/no or true/false situation. This allows it to convey fundamental decisions or states.
 Inductive Logic with Examples: Single Dot in Space:
 Me being the dot can be represented by a single bit, indicating my presence (1) or absence (0). This bit of information is the most basic representation of my existence.
 Determining Coordinates: To identify coordinates, I require more information than just being existing as a dot. For example, in a 2D space, I need two bits of information to specify its position: one bit for the x-coordinate and another for the y-coordinate. But in a 3D space, I need three bits (one for each axis: x, y, and z). 
 Movement and Speed: If the dot (I) am moving, I need more information to determine motion. For instance: The direction of movement (which could require multiple bits depending on the directions). The speed (which also requires additional bits to define the magnitude of the speed).
-Conclusion: Because bit is the basic building block from which more sophisticated information can be created, a bit is the smallest unit of information. Extra bits are required to convey extra context and detail, such as position, movement, and speed, even though a single bit can indicate the most fundamental yes/no or on/off state. Building up from the most basic state, each additional bit enables us to express information that is more intricate and subtle. 
+Conclusion: Because bit is the basic building block from which more sophisticated information can be created, a bit is the smallest unit of information. Extra bits are required to convey extra context and detail, such as position, movement, and speed, even though a single bit can indicate the most fundamental yes/no or on/off state. Building up from the most basic state, each additional bit enables us to express information that is more intricate and subtle.   
 c. 1. Collection of 1 Box (1 Bit):
 Each box (bit) can have 2 possible states: 0 or 1.
 Therefore, with 1 box, the number of different things we can represent is:
