@@ -19,4 +19,4 @@ Ordered Data (Ordinal Data) • This type of data has a meaningful order or rank
 They avoid 3D plots in their visualization because it makes the data very confusing.  
 Ans (19 and 20).  
 Color is a categorical/unordered aesthetic.  
-
+All three coordinate systems—Cartesian, curvilinear, and polar—are valid for representing data. The choice of the system depends on the type of data and the most intuitive way to visualize or analyze it: a.	Cartesian Coordinates (Rectangular grid, black): Typically used for data with linear relationships or structured grids (e.g., height vs. weight). This is a valid coordinate system. o	Example: Plotting points (x,y)(x, y)(x,y) in a 2D space. b.	Curved Grid (blue): Useful when the data or the domain naturally follows curves or warped geometries. No matter how you combine movements aling b1 and b2, you will always be stuck on the curves, you cannot reach every point on the grid. Therefore, this is not a valid coordinate system. Example: Representing airflow over an airplane wing. 3.	Skewed Grid (red): This one has slanted points but they can still reach every point in the grid. Therefore, this is a valid coordinate system.  
