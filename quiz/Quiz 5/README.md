@@ -26,4 +26,4 @@ a. Qualitative Color Scale b. Sequential Color Scale c. Diverging Color Scale d.
 A dataset that can be best visualized in polar coordinates is one where the data has a natural circular or directional component, typically involving angles and magnitudes. Polar coordinates are particularly useful when dealing with data that is periodic or has a cyclical nature.   
 Highlight Color Scale.  
 There is no title on the graph as to present what type of trend is shown or what is it actually about.  
-a. It will increase.  b. Earth will be colder by 2 degrees Celsius.  
+a. It will increase.  b. Earth will likely be about 1.5°C hotter than the 1951-1980 average by 2050 if the current warming trend continues.
