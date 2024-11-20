@@ -1,7 +1,7 @@
-Answer 1.
-Answer 2.
-Bayesian Inference.  
-Frequentist Inference.  
+Answer 1.  
+Answer 2.  
+Bayesian Inference.    
+Frequentist Inference.    
 Bayesian Inference. Prior knowledge has a fundamental rolein inference along with Data so existence of God involves having prior knowledge taught by elders, Holy books, history, etc. 
 Yes, Bayesian Inference a subset of the Frequentist Inference methods. ...  
 Bayesian Inference. 
