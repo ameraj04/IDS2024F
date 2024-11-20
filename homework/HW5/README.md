@@ -1,6 +1,6 @@
 1. This answer has been uploaded.   
 
-The three desiderata of Probability Theory are:
+2. The three desiderata of Probability Theory are:
 (I) Degrees of plausibility are represented by real numbers that means no negative number. 
 (II) Qualitative correspondence with common sense.
 (III) Consistency.
