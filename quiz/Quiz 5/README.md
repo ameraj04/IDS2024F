@@ -23,3 +23,7 @@ All three coordinate systems—Cartesian, curvilinear, and polar—are valid for
 The color palette transitioning from purple to green, passing through white is more effective for visualization than the red-to-green palette in many cases, particularly because it provides better contrast and is more inclusive for individuals with color vision deficiencies. The magenta-to-green palette is more distinguishable for individuals with red-green color blindness because magenta provides sufficient contrast compared to green. This palette works well for diverging data, where you need to show deviations from a neutral midpoint (represented by white in this case). For example: Showing changes above and below an average or baseline. Magenta and green are positioned on opposite sides of the color wheel, making them visually distinct and easy to differentiate even for humans.  
 a. Chicago  b. Death Valley c. Death Valley d. San Diego.   
 a. Qualitative Color Scale b. Sequential Color Scale c. Diverging Color Scale d. Highlight.  
+Ans.  
+Highlight Color Scale.  
+There is no title on the graph as to present what type of trend is shown or what is it actually about.  
+a. It will increase.  b. Earth will be colder by 2 degrees Celsius.  
