@@ -1,5 +1,5 @@
 Answer 1.  
-Answer 2.  
+The four major schools of thought in Probability Theory are: Frequentist Inference: Uncertainty is inherent in the experiment. I cannot reduce uncertainty any further. Therefore, the uncertainty is aleatoric. Bayesian Inference: The uncertainty is due to my lack of knowledge: 1. Wrong / inadequate model. 2. Lack of sufficiently detailed data which leads to inadequate models. I can reduce uncertainty with better data / model. Therefore, the uncertainty is epistemic. Classical (Laplacean) Interpretation: Probability is defined as the ratio of favorable outcomes to all equally likely outcomes. This approach assumes a finite number of equally probable outcomes. Example: The probability of rolling a 6 on a fair die is 16\frac{1}{6}61, since all six outcomes are equally likely. Axiomatic Interpretation: Probability is defined mathematically as a set function satisfying Kolmogorov's axioms (introduced by Andrey Kolmogorov in 1933). This approach is neutral regarding philosophical interpretation and focuses on building a consistent mathematical framework. Example: Rolling a Fair Six-Sided Dice.
 Bayesian Inference.    
 Frequentist Inference.    
 Bayesian Inference. Prior knowledge has a fundamental rolein inference along with Data so existence of God involves having prior knowledge taught by elders, Holy books, history, etc. 
