@@ -29,3 +29,53 @@ o	Discrete Data: Countable values, often whole numbers. Example: Number of stude
 o	Continuous Data: Measurable values that can take any number within a range, often including fractions or decimals. Example: Height of individuals (e.g., 5.8 feet).
 
 6. Categorical Variables are used to represent data that can be divided into groups or categories. Variables holding qualitative data are known as factors. These variables do not have a numerical value in the usual sense, but rather label or describe an attribute or quality. For example, country, gender, etc. Levels of factors are most commonly without order, but factors can also be ordered.  
+
+1. Ordered Data (Ordinal Data)
+•	This type of data has a meaningful order or ranking, but the differences between the values are not necessarily uniform or measurable. There is a clear sequence or rank, but the exact difference between the levels may not be defined.
+•	Examples:
+o	Education Levels: High school < Bachelor's < Master's < Doctorate
+o	Customer Satisfaction Ratings: Poor < Fair < Good < Excellent
+ 2. Unordered Data (Nominal Data)
+•	This type of data consists of categories without any inherent order or ranking. : The categories are distinct, but there is no logical sequence or ranking among them.
+•	Examples:
+o	Types of Fruits: Apple, Banana, Orange, Mango
+o	Countries: USA, Canada, Japan, Australia
+
+Column	Quantitative/Qualitative	Numerical/Categorical	Continuous/Discrete	Ordered/Unordered
+Month	  Qualitative	                Categorical	              N/A	            Ordered
+Day	    Quantitative	              Numerical	              Discrete	        Ordered
+Location Qualitative	              Categorical	              N/A	            Unordered
+StationID Qualitative	              Categorical	              N/A	            Unordered
+Temperature	Quantitative	          Numerical	              Continuous	      Ordered
+
+When plotting data, axes that represent the same or comparable units and are intended for direct comparison should use the same units and grid size. This practice helps maintain consistency, avoids misleading interpretations, and allows for an accurate visual comparison. When both axes represent the same unit or measurement, such as length, weight, or time, they should have identical scales and grid sizes. Example: A scatter plot comparing height (in cm) vs. arm span (in cm). Both axes use the same unit (centimeters), so the scales should be equal to make the 45-degree line (where height equals arm span) accurate.
+
+Transforming the axes of a plot can significantly improve data visualization, especially when dealing with data that has a wide range of values, non-linear relationships, or distributions. A common approach is applying transformations like logarithmic, square root, or standardization. Scenario: Visualizing Population Growth Over Time
+Imagine you are plotting the population of a country over several decades. The data shows exponential growth:
+Year	Population (in millions)
+1900	10.1
+1920	12.2
+1940	11.	4
+1960	12.	8
+1980	13.	16
+2000	14.	32
+2020	15.	64
+Problem with Raw Data Visualization:
+Linear Scale: If you plot this data on a standard line chart with a linear scale for the Y-axis (population), you will see the following issues:
+The growth looks extremely steep towards the end, making it hard to observe the trend in earlier years (where the population was smaller).
+The rapid increase compresses the lower values into a small range, making it hard to analyze the growth pattern over time.
+Solution: Logarithmic Transformation on the Y-axis:
+By applying a logarithmic transformation to the Y-axis (population), we can better visualize the data:
+Log Y-axis: Plotting the population in terms of log⁡(Population) scales down the exponential growth, turning the curve into a straight line.
+
+All three coordinate systems—Cartesian, curvilinear, and polar—are valid for representing data. The choice of the system depends on the type of data and the most intuitive way to visualize or analyze it:
+a.	Cartesian Coordinates (Rectangular grid, black):
+o	Typically used for data with linear relationships or structured grids (e.g., height vs. weight). This is a valid coordinate system.
+o	Example: Plotting points (x,y)(x, y)(x,y) in a 2D space.
+b.	Curved Grid (blue):
+o	Useful when the data or the domain naturally follows curves or warped geometries. No matter how you combine movements aling b1 and b2, you will always be stuck on the curves, you cannot reach every point on the grid. Therefore, this is not a valid coordinate system.
+o	Example: Representing airflow over an airplane wing.
+3.	Skewed Grid (red):
+o	This one has slanted points but they can still reach every point in the grid. Therefore, this is a valid coordinate system.
+
+1.Distinguish categories 2.Represent data values (sequential) 3.Represent data values (diverging) 4.Highlight.
