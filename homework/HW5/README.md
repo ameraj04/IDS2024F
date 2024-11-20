@@ -28,7 +28,7 @@ o	Ordinal Data: Categories with a natural order or ranking. Example: Customer sa
 o	Discrete Data: Countable values, often whole numbers. Example: Number of students in a classroom (e.g., 40 students).
 o	Continuous Data: Measurable values that can take any number within a range, often including fractions or decimals. Example: Height of individuals (e.g., 5.8 feet).
 
-6. Categorical Variables are used to represent data that can be divided into groups or categories. Variables holding qualitative data are known as factors. These variables do not have a numerical value in the usual sense, but rather label or describe an attribute or quality. For example, country, gender, etc. Levels of factors are most commonly without order, but factors can also be ordered.  
+Variables holding qualitative and quantitative data are known as Data Attributes.  
 
 1. Ordered Data (Ordinal Data)
 •	This type of data has a meaningful order or ranking, but the differences between the values are not necessarily uniform or measurable. There is a clear sequence or rank, but the exact difference between the levels may not be defined.
