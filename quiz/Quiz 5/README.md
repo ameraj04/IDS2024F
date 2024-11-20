@@ -3,7 +3,7 @@ The four major schools of thought in Probability Theory are: Frequentist Inferen
 Bayesian Inference.    
 Frequentist Inference.    
 Bayesian Inference. Prior knowledge has a fundamental rolein inference along with Data so existence of God involves having prior knowledge taught by elders, Holy books, history, etc. 
-Yes, Bayesian Inference a subset of the Frequentist Inference methods. ...  
+No, Bayesian Inference is not a subset of Frequentist Inference methods. They are fundamentally different approaches to probability and statistical inference, based on contrasting philosophical frameworks. Frequentist Inference: Treats probability as the long-run frequency of events. Whereas, Bayesian treats probability as a degree of belief or certainty about an event or hypothesis, incorporating both prior knowledge and observed data.  
 Bayesian Inference.  
 Answer  
 It appeared in 1975.  
