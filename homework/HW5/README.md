@@ -78,4 +78,32 @@ o	Example: Representing airflow over an airplane wing.
 3.	Skewed Grid (red):
 o	This one has slanted points but they can still reach every point in the grid. Therefore, this is a valid coordinate system.
 
-1.Distinguish categories 2.Represent data values (sequential) 3.Represent data values (diverging) 4.Highlight.
+1.Distinguish categories:Colors that repeat in a circular pattern. Best Usage: For data that repeats or is cyclic in nature, such as time of day, compass directions, or seasonal variations. . 2.Represent data values (sequential): Gradual transitions between colors, often moving from light to dark or one hue to another. Best Usage: For ordered data with a natural progression, such as temperature, elevation, or time. 3.Represent data values (diverging): Two contrasting colors diverging from a neutral midpoint. Best Usage: For data with a meaningful midpoint, such as deviations from an average, zero, or target value 4.Highlight: Distinct, contrasting colors to represent discrete, unordered categories. Best Usage: For categorical or nominal data, such as different countries, brands, or species.
+
+The issue with this visualization lies in the presence of the word "wrong" in the top-right corner. While the actual plot appears to be a density plot showing the distribution of "age (years)" along with its density values, labeling it as "wrong" without context is unhelpful.
+1.	Possible Issues with the Data:
+o	The density values may not sum to 1, which is a requirement for proper density plots.
+2.	Visual Design Concerns:
+- Lack of explanation for why the visualization is labeled as "wrong” and it can confuse readers. 
+- A small change on a non-linear scale may appear much larger visually than a large change on a linear scale, potentially leading to incorrect conclusions. 
+- The plot lacks sufficient labels or titles to explain its purpose. For example:
+•	What is the dataset or population?
+•	Is this showing a specific subset of data, like a demographic group?
+Therefore, without this context, the plot cannot be interpreted properly.
+
+The color palette transitioning from purple to green, passing through white is more effective for visualization than the red-to-green palette in many cases, particularly because it provides better contrast and is more inclusive for individuals with color vision deficiencies. The magenta-to-green palette is more distinguishable for individuals with red-green color blindness because magenta provides sufficient contrast compared to green. This palette works well for diverging data, where you need to show deviations from a neutral midpoint (represented by white in this case). For example: Showing changes above and below an average or baseline. Magenta and green are positioned on opposite sides of the color wheel, making them visually distinct and easy to differentiate even for humans.
+
+This has been submitted (file uploaded).
+
+The four major schools of thought in Probability Theory are:
+1. Frequentist Inference: Uncertainty is inherent in the experiment. I cannot reduce uncertainty any further. Therefore, the uncertainty is aleatoric.
+2. Bayesian Inference: The uncertainty is due to my lack of knowledge: 1. Wrong / inadequate model. 2. Lack of sufficiently detailed data which leads to inadequate models. I can reduce uncertainty with better data / model. Therefore, the uncertainty is epistemic.
+3. Classical (Laplacean) Interpretation: Probability is defined as the ratio of favorable outcomes to all equally likely outcomes. This approach assumes a finite number of equally probable outcomes. Example: The probability of rolling a 6 on a fair die is 16\frac{1}{6}61, since all six outcomes are equally likely.
+4. Axiomatic Interpretation: Probability is defined mathematically as a set function satisfying Kolmogorov's axioms (introduced by Andrey Kolmogorov in 1933). This approach is neutral regarding philosophical interpretation and focuses on building a consistent mathematical framework. Example: Rolling a Fair Six-Sided Dice.
+
+Extra Credit 1: . Frog/Toad: The most immediate perception is of a frog or toad sitting by the water. But looking more closely, the body of the frog looks like a horse with a rider.  
+
+Extra Credit 2: Move one matchstick from the 6 of 8 to the - (minus sign), turning it into a + (plus sign):
+The new equation will be:
+0 + 3 + 4 = 7
+This holds true since 0 + 3 + 4 = 7.
