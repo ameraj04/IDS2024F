@@ -4,19 +4,25 @@ Positional Aesthetic: Those that can represent continuous data. Continuous data 
 Non-Positional Aesthetic: These involve visual properties that do not rely on the specific location of the data point but instead use other attributes to convey information. For example, the number of people in a room is a discrete value. A room can hold 5 people or 6, but not 5.5. Non-positional aesthetics enhance the visualization by adding more dimensions of information, allowing the viewer to interpret additional variables without changing the position of the data points. For example, Color: Different hues to represent categories or gradient colors for continuous values, Size: To indicate magnitude or importance, as seen in bubble charts, Shape: Different symbols or markers to distinguish between groups or categories.  
 3. The color palette transitioning from pink/magenta to green, passing through white is more effective for visualization than the red-to-green palette in many cases, particularly because it provides better contrast and is more inclusive for individuals with color vision deficiencies. The magenta-to-green palette is more distinguishable for individuals with red-green color blindness because magenta provides sufficient contrast compared to green. This palette works well for diverging data, where you need to show deviations from a neutral midpoint (represented by white in this case). For example: Showing changes above and below an average or baseline. Magenta and green are positioned on opposite sides of the color wheel, making them visually distinct and easy to differentiate even for humans.  
 4. a. Qualitative Color Scale b. Sequential Color Scale c. Diverging Color Scale d. Highlight.   
-5. xx
+5. 1. Valid 2. Valid 3. Invalid 4. Invalid 5. Invalid 6. Invalid.  
 6. Theory, Experiment, Computation.
 7. No. "Let A be "The class begins." "Let B be "It is 9 AM." The logical implication A⇒B can be interpreted as: "If the class starts, then it is 9 AM." This might be a true statement in some contexts (e.g., if the class is set to begin at 9 AM), but it does not mean that the act of the class beginning causes the time to be 9 AM. In this case, while the implication holds true if the class starts at 9 AM, it does not mean that the class itself is responsible for the time being 9 AM. The class is just a signal indicating that it is time; the actual passage of time is an independent process. This example demonstrates that logical implications can exist without establishing a causal relationship between the two statements. The relationship may hold true logically, but it does not imply that one event causes the other in a physical sense.
-8. No, this is visually not a good fit in my opinion because it does not show any trend. xx  
-9. Yes, we can.  
-10. xx  
-11. The equivalent are the integers: 1,2,3.  
-12. Yes, they are representable.  
+8. 1. No, this is visually not a good fit in my opinion. A nonlinear fit, such as a polynomial regression or piecewise analysis, might better capture both the early oscillations and the steep increase in recent decades. Visual inspection suggests the red line underestimates variability (both positive and negative) in the data during most of the time range. The red line is purely linear, it does not account for the acceleration in warming seen in the late 20th and 21st centuries. 2. Systematic uncertainty dominates. Systematic uncertainties dominate before 1850, stemming from poor spatial coverage, instrument limitations, and reliance on indirect reconstructions. These uncertainties make early temperature anomalies less reliable than modern measurements. 3. Yes, for identifying trends (e.g., global warming). Modeling seasonality or periodic cycles (e.g., volcanic or solar activity effects). Making forecasts (e.g., projecting future temperature anomalies). 4. Warming in the 1930s-1940s: Driven by natural climate variability (e.g., ocean cycles) and increasing greenhouse gas emissions. Cooling Post-1940s: Primarily caused by aerosol emissions from post-war industrialization and possibly influenced by natural variability.  
+9. No, probability as it is defined in science cannot generally be represented using integer numbers because probability values are typically real numbers in the range [0, 1]. 
+Definition of Probability in Science: Probability is a measure of how likely an event is to occur, and it is formally defined as:
+P(E)=Number of favorable outcomes / Number of favorable outcomes​. This results in values between 0 (impossible event) and 1 (certain event). In many cases, these values are fractions or decimals, not integers.    
+10. The core consistency criteria for defining probability are:
+Non-negativity: Probabilities cannot be negative.
+Normalization: The total probability across the sample space equals 1.
+Additivity: Probabilities of disjoint events add up.
+These criteria ensure that probability is mathematically rigorous and can be applied consistently across diverse scenarios in science, mathematics, and everyday life.  
+11. The equivalent are the integers: 1,1,2.  
+12. Real numbers are not fully representable in modern digital computers because of their infinite precision and continuity. Instead, computers approximate real numbers using finite-precision representations like floating-point numbers, which allow for practical computation but come with limitations such as rounding errors, truncation, and gaps between representable values. Libraries like Python's decimal or mpmath can represent real numbers with arbitrary precision by dynamically allocating memory. However, these are slower and require more computational resources.    
 13. Done.  
 14. Git is a distributed version control software and GitHub is the central remote repository.  
-15. Bayesian Inference. Prior knowledge has a fundamental role in inference along with Data.   
-16. Bayesian.  
-17. Frequentist Inference. It treats probability as the long-run frequency of events. No prior knowledge is utilized.  
+15. Bayesian Inference.  
+16. Bayesian. It allows the incorporation of prior knowledge or expert opinion through the use of priors, which can significantly enhance the quality of inferences in the absence of abundant data. Bayesian methods also provide a systematic way of updating beliefs as new data becomes available, which is crucial when working with limited information.  
+17. Frequentist Inference. It treats probability as the long-run frequency of events. No prior knowledge is utilized.Since it requires the ability to perform repeatable experiments with observable outcomes. The existence of God is not a phenomenon that can be tested or measured through repeated trials.   
 18. 1.	Possible Issues with the Data:
 o	The density values may not sum to 1, which is a requirement for proper density plots.
 2.	Visual Design Concerns:
@@ -28,7 +34,7 @@ Therefore, without this context, the plot cannot be interpreted properly, no con
 19. In computers, everything is ultimately represented by integers because computers are based on digital electronics, which operate on binary systems. The fundamental reason for this lies in the hardware design and the nature of how computers process and store information. 1. Binary System (0s and 1s)
 Hardware Constraints: Computers are built using transistors, which are tiny electronic switches that can be either "on" or "off." This naturally maps to two states: 0 (off) and 1 (on). Simplicity and Reliability: Using only two states reduces the chance of errors caused by electrical noise or voltage fluctuations. It's easier to distinguish between two states (high or low voltage) than to distinguish between many possible states. Logical Operations: Binary makes it simple to implement basic logic gates (AND, OR, NOT) that form the foundation of computation. Base-2 (Binary) Arithmetic: All numbers can be represented in binary (base-2) using only 0s and 1s. Computers operate on this system to perform arithmetic and logic operations. Memory and Addressing: Memory addresses are also represented as integers. When a computer fetches data from memory, it references locations (addresses) using integers.  
 20. An ancestor programming language of C is B.
-21. Assembly.
+21. Fortran.  
 22. Done.
 23. Done. Logical Explanation: implication A⇒B: This is true in all cases except when A is true and B is false. So, the truth table for A⇒B is: If A=Trueand B=False, A⇒B is False.
 Otherwise, A⇒Bis True.
