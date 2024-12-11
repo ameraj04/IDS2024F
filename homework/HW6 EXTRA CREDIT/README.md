@@ -17,6 +17,7 @@ Conclusion:
 •	The quadratic model fits reality better because climate change is accelerating, not linear.
 •	Its prediction for 2050 (+1.57°C) is consistent with forecasts from leading climate science organizations (like the IPCC).
 •	The simple linear model predicts only +0.816°C, which underestimates future warming.  
+Quadratic Model predicts more temperature increase in the future.   
 Question 2.  
 a. The two free parameters of the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm are:
 1.	Epsilon (ε): The maximum distance between two points to be considered part of the same cluster.
