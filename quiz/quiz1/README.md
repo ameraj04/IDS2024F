@@ -5,7 +5,7 @@ Yes, Does every Git project have a .git folder.
 The .git folder in Git projects is the core directory where Git stores all the metadata and history needed to manage the repository. It is essentially the brain of the Git version control system for a specific project. The presence of this folder allows Git to track changes, manage commits, store configuration, and handle various other version control operations.  
 cd - change directory AKA change to home.    
 ls- it lists the directory.    
-pwd - shows the current directory.    
+The Linux Bash command pwd stands for "print working directory". It is used to display the current directory in the terminal where the user is working.  
 a. working directory b. staging directory  c. .git repository    
 VCS is basically a way to record the changes in the file or group of files that has been done by an individual or group of people collaborating on the same project overtime. This is helpful to track the changes in the version later.  
 a. Each person working on the project has clone of the central repository on their device. b. Each person has a back up of the data. c. Data cannot be loss. d. Can handle large projects with people sharing the data. e. There is less chance of errors. f. Minor/Major changes can be tracked easily so no one gets confused between the different versions.  
