@@ -6,7 +6,7 @@ The .git folder in Git projects is the core directory where Git stores all the m
 cd - change directory AKA change to home.    
 ls- it lists the directory.    
 The Linux Bash command pwd stands for "print working directory". It is used to display the current directory in the terminal where the user is working.  
-a. working directory b. staging directory  c. .git repository    
+a. working directory b. staging directory  c. .git repository. Working Directory: Where you make changes to files. Staging Area: Where you prepare changes before committing. Repository: Where committed changes are stored as part of the version history.     
 VCS is basically a way to record the changes in the file or group of files that has been done by an individual or group of people collaborating on the same project overtime. This is helpful to track the changes in the version later.  
 a. Each person working on the project has clone of the central repository on their device. b. Each person has a back up of the data. c. Data cannot be loss. d. Can handle large projects with people sharing the data. e. There is less chance of errors. f. Minor/Major changes can be tracked easily so no one gets confused between the different versions.  
 a. Local VCS b. Centralized VCS c. Distributed VCS  
