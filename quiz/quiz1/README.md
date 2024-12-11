@@ -26,6 +26,9 @@ Three major modern pillars of science: Experiment, Theory and Computation + Data
 Machine Learning, Data Analysis and Data Management.  
 Coding, Stats, and Domain.  
 A Data Scientist is someone who analyzes the data on a large scale with the help of Stats, coding, data represenation, data mining and computer algorithms. They are able to make conclusions out of the collected data and describe the trends as well.   
-Absolute path is more appropriate to use in github.  
-git clone  
-cd ~ basically takes us out of the folder we currently be working in.   
+Absolute File Path. Definition: An absolute file path specifies the full path to a file or directory from the root of the file system.
+Characteristics: It starts from the root directory (/ on Linux/Mac or C:\ on Windows). Always points to the same file or directory, regardless of your current location in the file system. Not portable, as it is specific to a particular system.
+Relative File Path: Definition: A relative file path specifies the path to a file or directory relative to the current working directory. Characteristics:
+Starts from the current directory (or another specified directory). Portable, as it can work in different environments as long as the relative structure remains the same. More flexible in collaborative projects. Which One is More Appropriate for GitHub Projects and Why? Relative File Paths are generally more appropriate for GitHub projects. Here’s why: Portability: GitHub repositories are often cloned by users to different locations on their own systems. A relative path works regardless of where the project is stored on a user's machine because it's always relative to the project directory. Consistency: When collaborators clone or work on a project, relative paths will always point to the correct location as long as the file structure is maintained. Absolute paths, on the other hand, may point to completely different locations on different machines. Collaborative Work: GitHub repositories are designed to be shared. Using relative paths ensures that everyone, regardless of their operating system or where they cloned the repository, will have the same file references.  
+git help --all , git status.  
+The Linux Bash terminal command cd ~ is used to change the current directory to the user's home directory.  
