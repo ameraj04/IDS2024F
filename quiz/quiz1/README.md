@@ -18,7 +18,7 @@ Markdown is a way to style text on the computer. Basically, it can format the te
 We make the text bold in MarkDown by adding **text**.    
 We make the text italic in MarkDown by adding *text*.       
 git init  
-./ means current, ../ means one time back (previous folder or file from the current one).   
+./ means current, ../ means one time back (previous folder or file from the current one). . refers to the current directory. .. refers to the parent directory (one level up).   
 I am able to see the files that I created on README.md folder for my project IDS2024F in DOWNLOADS folder of my computer. DOWNLOADS to IDS2024F to all the folders such as homework, quiz, readme.md etc. I am able to basically push the data from remote repository to the local respository. -rf command illustrates the modification in the data.  
 Biomedical, Neuroscience, Cognitive Sciences and Neurobiology.  
 Computer, Optimization, Simulations and Bayesian.  
