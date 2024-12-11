@@ -2,7 +2,7 @@ README.md has been created.
 .md means MarkDown. Its a syntax that has its own version in github. It helps to play around the text easier such as bold, italicized, etc. Markdown Formatting: GitHub supports rendering Markdown files. When you name a README file with the .md extension, GitHub automatically recognizes the file as a Markdown file and renders it with proper formatting when viewed on the platform. This means headings, links, lists, and other Markdown syntax are displayed as intended, not just as plain text.  
 No, Git does not index or track empty folders in your project. Git only tracks files, not directories. However, it does track the presence of a folder as long as it contains files.     
 Yes, Does every Git project have a .git folder.    
-.git folder will contain all of the histories of the new project.    
+The .git folder in Git projects is the core directory where Git stores all the metadata and history needed to manage the repository. It is essentially the brain of the Git version control system for a specific project. The presence of this folder allows Git to track changes, manage commits, store configuration, and handle various other version control operations.  
 cd - change directory AKA change to home.    
 ls- it lists the directory.    
 pwd - shows the current directory.    
