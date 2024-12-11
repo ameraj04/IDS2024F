@@ -7,7 +7,7 @@ cd - change directory AKA change to home.
 ls- it lists the directory.    
 The Linux Bash command pwd stands for "print working directory". It is used to display the current directory in the terminal where the user is working.  
 a. working directory b. staging directory  c. .git repository. Working Directory: Where you make changes to files. Staging Area: Where you prepare changes before committing. Repository: Where committed changes are stored as part of the version history.     
-VCS is basically a way to record the changes in the file or group of files that has been done by an individual or group of people collaborating on the same project overtime. This is helpful to track the changes in the version later.  
+A Version Control System (VCS) is a tool that helps manage and track changes to files or code over time. It allows multiple users to collaborate on a project, record modifications, and revert to previous versions if needed. VCS keeps a history of changes, making it easier to identify who made what change, when, and why. This is crucial for software development, document management, and any collaborative work where tracking changes is important.  
 a. Each person working on the project has clone of the central repository on their device. b. Each person has a back up of the data. c. Data cannot be loss. d. Can handle large projects with people sharing the data. e. There is less chance of errors. f. Minor/Major changes can be tracked easily so no one gets confused between the different versions.  
 a. Local VCS b. Centralized VCS c. Distributed VCS  
 Git is a distributed version control software and GitHub is the central remote repository.   
