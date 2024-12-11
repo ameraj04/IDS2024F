@@ -16,7 +16,7 @@ Conclusion:
 | Prediction for 2050: +1.57°C
 •	The quadratic model fits reality better because climate change is accelerating, not linear.
 •	Its prediction for 2050 (+1.57°C) is consistent with forecasts from leading climate science organizations (like the IPCC).
-•	The simple linear model predicts only +0.816°C, which underestimates future warming.
+•	The simple linear model predicts only +0.816°C, which underestimates future warming.  
 Question 2.  
 a. The two free parameters of the DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm are:
 1.	Epsilon (ε): The maximum distance between two points to be considered part of the same cluster.
@@ -26,7 +26,7 @@ b. No, these parameters are not unique.
 •	Increasing ε\varepsilonε and decreasing MinPts will still merge all points into a single cluster.
 •	Decreasing MinPts to 1 always guarantees that points will be classified as core points, and with a large enough ε\varepsilonε, you will have one large cluster.
 I can use dmax/2 as epsilon and 2 minpts. 
-c. Done.
+c. Done.  
 Question 3.  
 a. Done. b. Done. c. Done. d. Done. e. Yes, it is satisfying. It is very close to how I wanted to do it.  f. Done.  g. Done. 
 h. No, it does not look the same. Because in Manual Placement if you place points using parametric equations (like circles and parabolas), the points will be evenly spaced and symmetrical. But in Random Placement If you randomly distribute points around face, the distribution will be more "natural" but less symmetrical. The clusters look different because randomness and algorithmic decisions affected the output. Random placement often leads to uneven point density, which affects clustering algorithms. Clustering algorithms are influenced by initialization, convergence criteria, and randomness. i. Done.  
@@ -34,7 +34,7 @@ h. No, it does not look the same. Because in Manual Placement if you place point
 2.  Noise Handling: DBSCAN ignores background points as noise, but K-means tries to assign every point to a cluster.
 3. No Predefined Clusters: DBSCAN doesn't require you to set the number of clusters kkk, whereas K-means forces you to guess kkk beforehand.
 4. Arbitrary Shapes: The circular eyes, curved smile, and round face outline can be captured by DBSCAN but not by K-means.
-5. Deterministic Output: DBSCAN produces consistent results, while K-means depends on random initialization.
+5. Deterministic Output: DBSCAN produces consistent results, while K-means depends on random initialization.  
 Question 4.  
 The plot uses the following axes:
 1.	X-axis (horizontal): This axis likely represents a linear scale, as the increments appear uniform.
