@@ -4,3 +4,16 @@ Positional Aesthetic: Those that can represent continuous data. Continuous data 
 Non-Positional Aesthetic: These involve visual properties that do not rely on the specific location of the data point but instead use other attributes to convey information. For example, the number of people in a room is a discrete value. A room can hold 5 people or 6, but not 5.5. Non-positional aesthetics enhance the visualization by adding more dimensions of information, allowing the viewer to interpret additional variables without changing the position of the data points. For example, Color: Different hues to represent categories or gradient colors for continuous values, Size: To indicate magnitude or importance, as seen in bubble charts, Shape: Different symbols or markers to distinguish between groups or categories.  
 3. The color palette transitioning from pink/magenta to green, passing through white is more effective for visualization than the red-to-green palette in many cases, particularly because it provides better contrast and is more inclusive for individuals with color vision deficiencies. The magenta-to-green palette is more distinguishable for individuals with red-green color blindness because magenta provides sufficient contrast compared to green. This palette works well for diverging data, where you need to show deviations from a neutral midpoint (represented by white in this case). For example: Showing changes above and below an average or baseline. Magenta and green are positioned on opposite sides of the color wheel, making them visually distinct and easy to differentiate even for humans.  
 4. a. Qualitative Color Scale b. Sequential Color Scale c. Diverging Color Scale d. Highlight.   
+5. xx
+6. Theory, Experiment, Computation.
+7. No. "Let A be "The class begins." "Let B be "It is 9 AM." The logical implication A⇒B can be interpreted as: "If the class starts, then it is 9 AM." This might be a true statement in some contexts (e.g., if the class is set to begin at 9 AM), but it does not mean that the act of the class beginning causes the time to be 9 AM. In this case, while the implication holds true if the class starts at 9 AM, it does not mean that the class itself is responsible for the time being 9 AM. The class is just a signal indicating that it is time; the actual passage of time is an independent process. This example demonstrates that logical implications can exist without establishing a causal relationship between the two statements. The relationship may hold true logically, but it does not imply that one event causes the other in a physical sense.
+8. No, this is visually not a good fit in my opinion because it does not show any trend. xx  
+9. Yes, we can.  
+10. xx  
+11. The equivalent are the integers: 1,2,3.  
+12. Yes, they are representable.  
+13. Done.  
+14. Git is a distributed version control software and GitHub is the central remote repository.  
+15. Bayesian Inference. Prior knowledge has a fundamental role in inference along with Data.   
+16. Bayesian.  
+17. Frequentist Inference. It treats probability as the long-run frequency of events. No prior knowledge is utilized.  
