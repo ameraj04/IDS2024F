@@ -37,7 +37,7 @@ Hardware Constraints: Computers are built using transistors, which are tiny elec
 22. Done.
 23. Done. Logical Explanation: implication A⇒B: This is true in all cases except when A is true and B is false. So, the truth table for A⇒B is: If A=Trueand B=False, A⇒B is False.
 Otherwise, A⇒B is True.
-Contrapositive Implication ¬B⇒¬A: This states that if BB is false, then AA must also be false. The truth table for ¬B⇒¬A is:
+Contrapositive Implication ¬B⇒¬A: This states that if B is false, then A must also be false. The truth table for ¬B⇒¬A is:
 If B=True and A=False, ¬B⇒¬A is True.
 If B=False, the contrapositive implication is always True because the premise (¬B) is true.
 24. The two types of logical reasonings are: a. Deductive: This type of reasoning is a statement that can be either true or false. It has to be one only and cannot be both. Premise 1: All fruits contain seeds. Premise 2: An apple is a fruit. Conclusion: Therefore, an apple is a fruit. b. Plausible: When conclusions are reached using data or observations that point to a likely or probable outcome rather than offering complete assurance, this is known as plausible reasoning. It entails drawing conclusions or generalizations from particular cases, experiences, or trends; these conclusions are plausible and reasonable, but they are not always accurate. Plausible reasoning addresses uncertainty and seeks to determine the most likely or reasonable answer given the evidence at hand, in contrast to deductive reasoning, which provides logically certain conclusions. Observation 1: I usually go to gym on weekdays. Observation 2: Today is a weekday. Conclusion: I will probably go to a gym today.
