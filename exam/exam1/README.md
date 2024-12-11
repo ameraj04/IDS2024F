@@ -23,8 +23,7 @@ These criteria ensure that probability is mathematically rigorous and can be app
 15. Bayesian Inference.  
 16. Bayesian. It allows the incorporation of prior knowledge or expert opinion through the use of priors, which can significantly enhance the quality of inferences in the absence of abundant data. Bayesian methods also provide a systematic way of updating beliefs as new data becomes available, which is crucial when working with limited information.  
 17. Frequentist Inference. It treats probability as the long-run frequency of events. No prior knowledge is utilized.Since it requires the ability to perform repeatable experiments with observable outcomes. The existence of God is not a phenomenon that can be tested or measured through repeated trials.   
-18. 1.	Possible Issues with the Data:
-o	The density values may not sum to 1, which is a requirement for proper density plots.
+18. 1.	Possible Issues with the Data:The density values may not sum to 1, which is a requirement for proper density plots.
 2.	Visual Design Concerns:
 - A small change on a non-linear scale may appear much larger visually than a large change on a linear scale, potentially leading to incorrect conclusions. The graph lacks the trend, no title so it does not show what it is trying to interpret. The Y-axis scale is very narrow, it can be more spaced out to show a better trend. 
 - The plot lacks sufficient labels or titles to explain its purpose. For example:
@@ -37,14 +36,17 @@ Hardware Constraints: Computers are built using transistors, which are tiny elec
 21. Fortran.  
 22. Done.
 23. Done. Logical Explanation: implication A⇒B: This is true in all cases except when A is true and B is false. So, the truth table for A⇒B is: If A=Trueand B=False, A⇒B is False.
-Otherwise, A⇒Bis True.
+Otherwise, A⇒B is True.
 Contrapositive Implication ¬B⇒¬A: This states that if BB is false, then AA must also be false. The truth table for ¬B⇒¬A is:
 If B=True and A=False, ¬B⇒¬A is True.
 If B=False, the contrapositive implication is always True because the premise (¬B) is true.
 24. The two types of logical reasonings are: a. Deductive: This type of reasoning is a statement that can be either true or false. It has to be one only and cannot be both. Premise 1: All fruits contain seeds. Premise 2: An apple is a fruit. Conclusion: Therefore, an apple is a fruit. b. Plausible: When conclusions are reached using data or observations that point to a likely or probable outcome rather than offering complete assurance, this is known as plausible reasoning. It entails drawing conclusions or generalizations from particular cases, experiences, or trends; these conclusions are plausible and reasonable, but they are not always accurate. Plausible reasoning addresses uncertainty and seeks to determine the most likely or reasonable answer given the evidence at hand, in contrast to deductive reasoning, which provides logically certain conclusions. Observation 1: I usually go to gym on weekdays. Observation 2: Today is a weekday. Conclusion: I will probably go to a gym today.
 25. It means they have the same truth value.
-26. xx.
-27. Done. Symbol meaning is
-28. S = 1683 (Summation property). xx.
-29. Done.  xx
-30. 
+26. Done.  
+27. Done. The symbol ∣∣ in the expression P(A∣B,U)P(A∣B,U) is used to represent conditional probability. It indicates that the probability of event A is being considered given the occurrence of events B and U. 
+28. S = 1683 (Summation property). The formula for the sum SnSn​ of the first nn terms of an arithmetic sequence is: Sn=n2⋅(a+l). where:
+n is the number of terms, a is the first term, l is the last term. I substituted the values and got the answer.  
+29. Done.  
+30. Done.
+31. Done.
+32. Epistemic, statistical, extrinsic, intrinsic, model. Nature of Uncertainty: In quantum mechanics, uncertainty arises from the inherent properties of particles and waves, governed by the Heisenberg Uncertainty Principle. It asserts that it is impossible to simultaneously know the exact position and momentum of a particle. Intrinsic: This uncertainty is intrinsic, meaning it is a fundamental feature of the quantum world and is not due to measurement limitations. It arises because particles do not have precise values for certain properties until they are measured, and this uncertainty is part of the fabric of nature itself.
