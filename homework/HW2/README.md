@@ -4,7 +4,7 @@ In computers, everything is ultimately represented by integers because computers
 Hardware Constraints: Computers are built using transistors, which are tiny electronic switches that can be either "on" or "off." This naturally maps to two states: 0 (off) and 1 (on). Simplicity and Reliability: Using only two states reduces the chance of errors caused by electrical noise or voltage fluctuations. It's easier to distinguish between two states (high or low voltage) than to distinguish between many possible states. Logical Operations: Binary makes it simple to implement basic logic gates (AND, OR, NOT) that form the foundation of computation. Base-2 (Binary) Arithmetic: All numbers can be represented in binary (base-2) using only 0s and 1s. Computers operate on this system to perform arithmetic and logic operations. Memory and Addressing: Memory addresses are also represented as integers. When a computer fetches data from memory, it references locations (addresses) using integers.  
 a. Binary Representation b. Memory c. Logical and Boolean Operations.  
 The fastest part of a computer's memory is called the CPU (Central Processing Unit).   
-The slowest storage device in computers is the mechanical hard disk drive (HDD).   
+The slowest storage device in computers is the mechanical hard disk drive (HDD). Eample: optical drive (CD, etc).  
 The smallest unit of information in computer science is the bit.  
 A. The programming language closest to machine code (i.e., binary code) is assembly language. B. Yes  
 The oldest high-level programming language that is still in active daily use is Fortran. B. Fortran was created in 1957. As of 2024, this makes Fortran approximately 67 years old, which is around 7 decades old.   
